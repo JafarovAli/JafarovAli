@@ -1,3 +1,4 @@
+![snake gif](https://github.com/JafarovAli/JafarovAli/blob/output/github-contribution-grid-snake.gif)
 ![MasterHead](https://i.imgur.com/EaHTsat.jpg)
 <h1 align="center">Hi 👋, I'm Ali</h1>
 <h3 align="center">A passionate frontend developer from Azerbaijan</h3>
