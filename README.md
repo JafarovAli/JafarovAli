@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **C# and .Net Framework for Development**
 
-- 📫 How to reach me **cafarovali2004@gmail.com**
+- 📫 How to reach me **ali.jafarov22@gmail.com**
 
 - 🎓 Studying **Information technologies**
 
