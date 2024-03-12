@@ -1,6 +1,6 @@
 ![MasterHead](https://i.imgur.com/EaHTsat.jpg)
 <h1 align="center">Hi 👋, I'm Ali</h1>
-<h3 align="center">A passionate frontend developer from Azerbaijan</h3>
+<h3 align="center">A passionate backend developer from Azerbaijan</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jafarovali" alt="jafarovali" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
