@@ -31,7 +31,6 @@
     <img src="https://skillicons.dev/icons?i=cs,py,docker,dotnet,postman,mysql,html,css,js,bootstrap,cpp,sqlite,git,github,vscode,visualstudio,rabbitmq,ps,ai" />
   </a>
 </p>
-<br>
 
 <br/><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jafarovali&show_icons=true&locale=en&layout=compact" alt="jafarovali" /></p>
 
