@@ -9,13 +9,11 @@
 
 - 📫 How to reach me **ali.jafarov22@gmail.com**
 
-- 🎓 Studying **Information technologies**
+- 🎓 Studied **Information technologies**
 
 - 💼 **Backend developer**
 
 - ✍️ **I believe that one day everything will be fine**
-
-- ⚡ Fun fact **I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
